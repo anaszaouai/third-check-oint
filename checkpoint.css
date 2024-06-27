@@ -1,0 +1,148 @@
+
+
+#img1{
+    height: 10%;
+    width: 20%;
+    margin-right: 30%;
+
+}
+nav ul  {
+  display: flex;
+  flex-direction: row;
+  list-style: none;
+  padding-right: 10%;
+}
+ul li {
+  padding-right: 20%;
+  }
+nav{
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+
+}
+nav ul li a{
+  text-decoration: none;
+  list-style: none;
+}
+nav ul li a {
+color: rgb(13, 192, 192);
+  text-decoration: none;
+ font-weight: lighter;
+}
+ .up{
+  text-align: center;
+  color: rgb(13, 192, 192);
+ margin-top: 1%; 
+}
+#par{
+  color:rgb(13, 192, 192);
+  font-weight: lighter;
+}
+ .down{
+ display: flex;
+ flex-direction: row;
+ justify-content: center;
+
+ margin-left: 10%;
+ margin-right: 10%;
+ color: rgb(134, 129, 129);
+}
+ #p1{
+  border: 0cm;
+  width: 40%;
+}
+ #p2{
+  border: 0cm;
+ width: 40%;
+ }
+ body{
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+ }
+ .anas{
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
+#anas2{
+  border: 2px ;
+  border-radius: 10px;
+
+  margin: 8px;
+  width: 20%;
+  height: 8cm;
+  margin-top: 5%;
+  color: aliceblue;
+}
+ .edem{
+  background-color: rgb(13, 192, 192);
+  
+ }
+ .rayen{
+  background-color: rgb(73, 159, 199);
+ }
+ .iyed{
+  background-color: rgb(36, 36, 36);
+ }
+ #edem2{
+  padding: 5%;
+ }
+#gomy{
+  color: rgb(13, 192, 192);
+
+}
+.way{
+    display: flex;
+    flex-direction: row;
+}
+#rayen2{
+  margin-top: 20%;
+
+
+}
+#code{
+  margin-left: 20%;
+  margin-right: 20%;
+}
+#gomy{
+  margin-left: 20%;
+  margin-right: 20%;
+}
+.anaslovescode{
+  display: flex;
+  flex-direction: row;
+
+ }
+ .ff{
+  border: 2px ;
+border-radius: 10px;
+height: 6cm;
+width: 6cm;
+margin: 2%;
+text-align: center;
+background-color: rgb(255, 255, 255);
+ }
+ .anashatescode{
+  display: flex;
+  flex-direction: row;
+ }
+ .ich{
+  border: 2px ;
+  border-radius: 10px;
+  height: 6cm;
+  width: 6cm;
+  margin: 2%;
+  background-color: rgb(255, 255, 255);
+  text-align: center
+  
+ }
+ h3{
+  color: rgb(13, 192, 192);
+ }
+.hi{
+  background-color: rgb(210, 255, 255);
+  margin-top: 5%;
+
+}
+#bye{
+  margin-top: 7%}
